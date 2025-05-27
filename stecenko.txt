@@ -1,0 +1,1 @@
+echo "My name is Stecenko" > stecenko.txt
